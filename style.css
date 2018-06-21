@@ -1,0 +1,37 @@
+body{
+	margin: 10px;
+	padding: 20px;
+	height: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+	text-align:center;
+    color: #618ad2;
+    text-shadow: 2px 2px 0 #cccccc;
+}
+p {margin:1pt 0 7pt 0; }
+
+span{
+	color:green;
+}
+
+tbody{
+      font-weight:bold;
+      font-size: 16px;
+}
+
+pre {
+    padding: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    background: #f5f5f5;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+
+em {
+    color: #618ad2;
+	font-size: 16px;
+}
